@@ -5,10 +5,10 @@ This project documents the installation and setup process of Cursor IDE, Claude 
 **Tools Installed**
 
 This project involved setting up and using several tools for AI-assisted coding and version control:
-> Cursor IDE - An AI-powered code editor used for software development and project management.
-> Claude Code Extension — An AI coding assistant integrated into Cursor to help with coding tasks and project workflows.
-> Codex Extension — An AI development tool used to assist with code generation and automation.
-> GitHub — A platform used to create and manage the public repository for version control and project sharing.
+- Cursor IDE - An AI-powered code editor used for software development and project management.
+- Claude Code Extension — An AI coding assistant integrated into Cursor to help with coding tasks and project workflows.
+- Codex Extension — An AI development tool used to assist with code generation and automation.
+- GitHub — A platform used to create and manage the public repository for version control and project sharing.
 
 **Steps to Install and Activate**
 
@@ -51,7 +51,6 @@ This project involved setting up and using several tools for AI-assisted coding 
 7. Commit and push to GitHub
    - After created the content in README.md file, click "Commit changes" box.
    - Confirm the changes by clicking Commit changes.
-
 
 **Issues and Solutions**
 
